@@ -31,11 +31,16 @@ policies:
 ![image](https://github.com/user-attachments/assets/3cf4a642-8529-4850-af9e-ac2d22e7cfc7)
 
 
-State value function:
+State value function 1:
 
 ![image](https://github.com/user-attachments/assets/4d659b2f-253b-4a62-a4ab-d24b6ca51199)
 
+
+State value function 2:
+
 ![image](https://github.com/user-attachments/assets/f880a62c-9507-4cfa-9307-c2ba0b57bcd2)
+
+
 
 
 
